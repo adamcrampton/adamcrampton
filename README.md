@@ -32,7 +32,7 @@ Deployment method and instructions.
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
-* **Adam Crampton** - *Site build* - [PurpleBooth](https://github.com/adamcrampton)
+* **Adam Crampton** - *Site build* - [Adam Crampton](https://github.com/adamcrampton)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 

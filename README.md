@@ -4,14 +4,17 @@ Short project description.
 ## Getting Started
 Instructions for setting repo up in dev environment.
 
-## Upgrading from vX.X
+### Upgrading from vX.X
 Notes for upgrading from breaking change version.
 
 ### Prerequisites
 List of items that must be completed/present before installation (optional).
 
-### Installing
+### Installation
 Ordered list of installation steps.
+
+## Usage
+Instructions on using the app.
 
 ## Tests
 Test framework and instructions on running tests.
